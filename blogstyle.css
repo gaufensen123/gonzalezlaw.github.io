@@ -1,0 +1,33 @@
+.boundingbox {
+
+	background-color: white;
+	padding: 1em;
+
+}
+
+body {
+
+	background-color: rgb(224, 222, 222);
+
+}
+
+.blogtitle {
+
+	text-align: center;
+	background-color: white;
+	margin: 0em;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Forum', cursive;
+
+}
+
+.navbar-brand {
+
+	font-size: 20px;
+	font-family: 'Barrio', cursive;
+
+}
